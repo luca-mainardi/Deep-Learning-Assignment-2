@@ -1,0 +1,9 @@
+numpy
+torch
+matplotlib
+tqdm
+torch-geometric
+networkx
+scikit-learn
+tabulate
+e3nn
