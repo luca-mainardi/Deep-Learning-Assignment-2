@@ -17,3 +17,5 @@ Key concepts and techniques covered in this assignment include:
 - **Luca Mainardi**
 - **Francesco Brescia**
 - **Matthew Nana**
+
+---
